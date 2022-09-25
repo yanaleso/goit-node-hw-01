@@ -4,10 +4,10 @@ CLI додаток
 
 ## Screenshots
 
-#### Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+#### Отримуємо і виводимо весь список контактів у вигляді таблиці
 
 node index.js --action="list"
-https://monosnap.com/file/6XnOZMRSQneIadsIWCdCVsPzIq4x99
+https://monosnap.com/file/7tp3PHF5XDnAgLvmjKAr3QcQRxokcT
 
 #### Отримуємо контакт по id
 
